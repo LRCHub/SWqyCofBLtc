@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Winners",
+  "base_artist": "G・GRIP",
+  "createdAt": "2026-03-18T13:24:10.253133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bread Winners",
+      "artist": "YBN (Young Boss N*ggas) feat. YBN Nahmir & YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/01_Bread_Winners_YBN_(Young_Boss_N_ggas)_feat._YBN_Nahmir_&_YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bread Winners",
+      "artist": "Young Boss Niggas",
+      "has_synced": true,
+      "path": "select/02_Bread_Winners_Young_Boss_Niggas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bread Winners (feat. Young Butta)",
+      "artist": "Young Thug feat. Young Butta",
+      "has_synced": true,
+      "path": "select/03_Bread_Winners_(feat._Young_Butta)_Young_Thug_feat._Young_Butta.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bread Winners (feat. Young Butta)",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/04_Bread_Winners_(feat._Young_Butta)_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ronda (Winners)",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/05_Ronda_(Winners)_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Winners Circle",
+      "artist": "Anderson .Paak",
+      "has_synced": true,
+      "path": "select/06_Winners_Circle_Anderson_.Paak.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Winners Never Quit",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/07_Winners_Never_Quit_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Winners Take All",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/08_Winners_Take_All_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When Both Sides Suck, We're All Winners",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/09_When_Both_Sides_Suck,_We're_All_Winners_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Winners",
+      "artist": "K's Choice",
+      "has_synced": true,
+      "path": "select/10_Winners_K's_Choice.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Winner's Blues",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/11_Winner's_Blues_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Winners & Losers",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/12_Winners_&_Losers_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In The Winner's Circle",
+      "artist": "Mudhoney",
+      "has_synced": false,
+      "path": "select/13_In_The_Winner's_Circle_Mudhoney.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Winners & Losers",
+      "artist": "Tygers of Pan Tang",
+      "has_synced": false,
+      "path": "select/14_Winners_&_Losers_Tygers_of_Pan_Tang.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When Both Sides Suck, We're All Winners",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/15_When_Both_Sides_Suck,_We're_All_Winners_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Winners Circle",
+      "artist": "50 Cent feat. Guordan Banks",
+      "has_synced": true,
+      "path": "select/16_Winners_Circle_50_Cent_feat._Guordan_Banks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Winners Circle (Feat. Guordan Banks)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/17_Winners_Circle_(Feat._Guordan_Banks)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Winners At A Losing Game",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/18_Winners_At_A_Losing_Game_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Winners Take All",
+      "artist": "Quiet Riot",
+      "has_synced": false,
+      "path": "select/19_Winners_Take_All_Quiet_Riot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Winners",
+      "artist": "G・GRIP",
+      "has_synced": false,
+      "path": "select/pl_01_Winners_G・GRIP.txt"
+    }
+  ]
+}
